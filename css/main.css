@@ -1,0 +1,11 @@
+.container {
+    margin-top: 2rem;
+}
+
+.form-error {
+    color: red;
+}
+
+.form-success {
+    color: green;
+}
